@@ -1,0 +1,12 @@
+{
+  "name": "music_reptile",
+  "version": "1.0.0",
+  "description": "qq music reptile",
+  "main": "main.js",
+  "author": "Allenem",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "superagent": "^5.1.0"
+  }
+}
