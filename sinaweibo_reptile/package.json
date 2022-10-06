@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.1.0",
-    "cheerio": "^0.19.0",
+    "cheerio": "^1.0.0-rc.12",
     "eventproxy": "^0.3.4",
     "moment": "^2.11.1",
     "request": "^2.69.0"
